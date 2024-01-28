@@ -1,0 +1,17 @@
+{
+  "name": "neonarea_sockets",
+  "version": "1.0.0",
+  "description": "a sockets example from coding train",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "lizzy brooks via dan shiffman's example",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "firebase": "^10.0.0",
+    "socket.io": "^4.7.1"
+  }
+}
